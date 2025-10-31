@@ -39,6 +39,11 @@
 ✨ **Experiences:** Samsung Members | Snapdragon Insiders | OnePlus Beta Tester  
 ♾️ **Likes:** Debugging both code and photos — *Linked List is my favorite!* 🙂
 
+---
+
+### 🧮 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ayankrpatra?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/ayankrpatra/)
 
 
 <!--
