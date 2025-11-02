@@ -1,49 +1,75 @@
 ## 👋 Hi there, I'm Ayan Kumar Patra  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankrpatra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayankumarpatra50@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayankumarpatra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ayankrpatra/)
+<h3 align="center">🚀 2nd-year CSE Student | Learning DSA & Python | Tech Enthusiast</h3>
 
 ---
 
-🎓 I'm a 2nd-year **Computer Science & Engineering** student at **MAKAUT University**.  
-💻 Currently learning **Data Structures and Algorithms (DSA)** using **C++**.  
-🚀 I enjoy coding, problem-solving, and improving my GitHub projects and profile.
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayankrpatra" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayankumarpatra50@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/ayankrpatra/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/ayankumarpatra" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Feel+free+to+connect+with+me+😊;Always+open+to+learn+new+things!+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🛠️ Languages and Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ---
 
-### 🧰 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayankumarpatra&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayankumarpatra&layout=compact&theme=dark)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=ayankumarpatra&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayankumarpatra&theme=dark)
-
----
-
-🌱 **Currently learning:** DSA with C++, Python, and small projects.  
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/ayankrpatra) | [Gmail](mailto:ayankumarpatra50@gmail.com) | [LeetCode](https://leetcode.com/u/ayankrpatra/)  
-⚡ **Fun fact:** I love exploring new tech and improving step by step!  
-✨ **Experiences:** Samsung Members | Snapdragon Insiders | OnePlus Beta Tester  
-♾️ **Likes:** Debugging both code and photos — *Linked List is my favorite!* 🙂
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayankumarpatra&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayankumarpatra&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🧮 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ayankrpatra?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/ayankrpatra/)
+<p align="center">
+  <a href="https://leetcode.com/u/ayankrpatra/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ayankrpatra?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+### ⚡ About Me
+- 🎓 **CSE Student** at MAKAUT University  
+- 💻 Currently learning **DSA with C++**, exploring **Python projects**  
+- 📸 **Samsung Members | Snapdragon Insiders | OnePlus Beta Tester**  
+- 🔥 Love debugging both **code and photos**  
+- 💬 *Linked List is my favorite structure 🙂*
+
+---
 
 
 <!--
