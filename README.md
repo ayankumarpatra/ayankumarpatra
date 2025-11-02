@@ -35,8 +35,8 @@
 ---
 
 ### 🛠️ Quick links & stats
+### 🌱 Leetcode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayankumarpatra&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://leetcard.jacoblin.cool/ayankrpatra?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
