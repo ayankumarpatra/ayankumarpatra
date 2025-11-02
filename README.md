@@ -7,26 +7,17 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayankrpatra" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayankumarpatra50@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/ayankrpatra/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/ayankumarpatra" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ayankrpatra" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:ayankumarpatra50@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://leetcode.com/u/ayankrpatra/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://github.com/ayankumarpatra" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Feel+free+to+connect+with+me+😊;Always+open+to+learn+new+things!+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
