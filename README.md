@@ -62,9 +62,9 @@
 
 ### ⚡ About Me : 
 - 🎓 **CSE Student** at MAKAUT University  
-- 💻 Currently learning **DSA in C++**, exploring **Python **  alongside
+- 💻 Currently learning **DSA in C++**, exploring **Python**  alongside
 - ✨ **Experiences:** Samsung Members | Snapdragon Insiders | OnePlus Beta Tester 
-- ♾️ **Likes:** Debugging both code and photos — *Linked List is my favorite!* 🙂
+- ♾️ **Likes:** Debugging both code and photos, optimising the solutions — *Linked List is my favorite!* 🙂
 
 ---
 
