@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=8000&pause=4500&color=00C2FF&center=true&vCenter=true&width=640&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A;Always+open+to+learn+new+things+%F0%9F%9A%80" alt="Feel free to connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=3000&color=00C2FF&center=true&vCenter=true&width=640&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A;Always+open+to+learn+new+things+%F0%9F%9A%80" alt="Feel free to connect" />
 </p>
 
 ---
