@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ayankrpatra" target="_blank" rel="noopener">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="42"/>
   </a>
-  <a href="mailto:ayankumarpatra50@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto	Ayankumarpatra48@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="42"/>
   </a>
   <a href="https://leetcode.com/u/ayankrpatra/" target="_blank" rel="noopener">
