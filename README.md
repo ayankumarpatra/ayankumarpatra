@@ -64,7 +64,7 @@
 - 🎓 **CSE Student** at MAKAUT University  
 - 💻 Currently learning **DSA in C++**, exploring **Python** and **web dev** alongside
 - ✨ **Experiences:** Samsung Members | Snapdragon Insiders | OnePlus Beta Tester 
-- ♾️ **Likes:** Debugging both code and photos, optimising the solutions — *Linked List is my favorite!* 🙂
+- ♾️ **Likes:** Debugging both code and photos, optimising the solutions — *Linked List and trees are my favorite!* 🙂
 
 ---
 
